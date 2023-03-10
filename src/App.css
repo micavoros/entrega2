@@ -1,0 +1,45 @@
+
+@font-face {
+  font-family: "Aclonica";
+  src: url("../fonts/Aclonica/Aclonica-Regular.ttf");
+  font-family: "Noto_Sans";
+  src: url("../fonts/Noto_Sans_JP/NotoSansJP-Regular.otf");
+}
+
+.navbar{
+  background-color: #c6f777;
+
+}
+
+.navbar-brand{
+  font-family: "Aclonica";
+  text-transform: uppercase;
+  color: rgb(59, 59, 59);
+  font-size: 1.5rem;
+}
+
+.nav-link {
+  font-family: "Noto_Sans";
+  color: rgb(59, 59, 59);
+  font-size: 0.9rem;
+  padding-top: 1.5rem;
+}
+
+body{
+  background-color: rgb(59, 59, 59);
+  color: white;
+}
+
+.nav-link-carrito{
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+
+}
+
+h1{
+  font-family: "Noto_Sans";
+  font-size: 1.5rem;
+  text-align: center;
+  padding-top: 1rem;
+}
