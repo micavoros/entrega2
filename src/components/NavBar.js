@@ -2,7 +2,6 @@ import React from "react";
 import Cart from "./Cart";
 import CartWidget from "./CartWidget";
 
-//bootstrap navbar
 function NavBar(){
     return(
         <>
@@ -25,18 +24,3 @@ function NavBar(){
     )
 } 
 export default NavBar;
-
-// //bootstrap cart
-// const CartWidget= () => {
-//     return (
-//     <i className="bi bi-bag"></i>
-//     );
-// }
-
-// //funcion cart -fijo- 
-// function Cart () {
-//     const count = useState(0)
-//     return(
-//         <p>{count}</p>
-//     )
-// }
