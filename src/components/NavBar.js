@@ -23,7 +23,7 @@ function NavBar(){
         </nav>
         </>
     )
-}
+} 
 export default NavBar;
 
 // //bootstrap cart
