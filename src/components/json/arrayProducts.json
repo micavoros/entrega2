@@ -1,0 +1,15 @@
+[
+{"id":1, "name": "Buzo Adidas", "description": "Buzo Adidas Con Capucha Adicolor", "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/df8bc807bf7d423d8659ad9a00d5f77c_9366/Buzo_con_Capucha_Adicolor_Holgado_Granate_HC7102_01_laydown.jpg", "price": "$23.000", "stock":7, "category": "concapucha"},
+{"id":2, "name": "Buzo Puma", "description": "Buzo Puma Classics Oversized", "image": "https://www.raptopoulos-stores.gr/wp-content/uploads/2022/09/5356822350230-897x897.jpg", "price": "$19.000", "stock":20, "category": "sincapucha"},
+{"id":3, "name": "Buzo Adidas", "description": "Buzo Adidas Future Icons", "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/91b15fefc6f5469c8169af4800888328_9366/Buzo_Future_Icons_3_Tiras_Rojo_IB8493_01_laydown.jpg", "price": "$24.000", "stock":10, "category": "sincapucha"},
+{"id":4, "name": "Buzo Billabong", "description": "Buzo Billabong Con Capucha Eternal Summer", "image": "https://www.tradeinn.com/f/13852/138524514/billabong-sudadera-con-capucha-eternal-summer.jpg", "price": "$20.900", "stock":6, "category": "concapucha"},
+{"id":5, "name": "Buzo Vans", "description": "Buzo Vans Wyld Tangle Florally", "image": "https://www.tradeinn.com/f/13931/139312582/vans-sudadera-wyld-tangle-florally.jpg", "price": "$17.900", "stock":3, "category": "concapucha"},
+{"id":6, "name": "Buzo Levis", "description": "Buzo Levis Con Capucha Standard", "image": "https://www.tradeinn.com/f/13889/138899481/levis---sudadera-con-capucha-standard.jpg", "price": "$18.900", "stock":1, "category": "concapucha"},
+{"id":7, "name": "Buzo Calvin Klein", "description": "Buzo Calvin Klein Con Cierre Quarter", "image": "https://www.tradeinn.com/f/13912/139123720/calvin-klein-sudadera-con-cremallera-quarter.jpg", "price": "$23.900", "stock":4, "category": "sincapucha"},
+{"id":8, "name": "Buzo O'neill", "description": "Buzo O'neill Con Capucha Cali Mountains", "image": "https://www.tradeinn.com/f/13912/139123512/oneill-sudadera-con-capucha-cali-mountains.jpg", "price": "$19.900", "stock":6, "category": "concapucha"},
+{"id":9, "name": "Buzo Adidas", "description": "Buzo Adidas Originals Adicolor Classics 3 Stripes Crew", "image": "https://www.tradeinn.com/f/13943/139438851_3/adidas-originals-sudadera-adicolor-classics-3-stripes-crew.jpg", "price": "$23.900", "stock":6, "category": "sincapucha"},
+{"id":10, "name": "Buzo Adidas", "description": "Buzo Adidas Sportswear Con Capucha Bl Ft", "image": "https://www.tradeinn.com/f/13943/139435557_3/adidas-sportswear-sudadera-con-capucha-bl-ft.jpg", "price": "$22.900", "stock":6, "category": "concapucha"},
+{"id":11, "name": "Buzo Adidas", "description": "Buzo Adidas Originals Con Cierre Adicolor Seasonal", "image": "https://www.tradeinn.com/f/13943/139439265/adidas-originals-sudadera-1-2-cremallera-adicolor-seasonal-archive-crew.jpg", "price": "$26.900", "stock":3, "category": "sincapucha"},
+{"id":12, "name": "Buzo Lacoste", "description": "Buzo Lacoste SH0068-00", "image": "https://www.tradeinn.com/f/13898/138986928/lacoste-sudadera-sh0068-00.jpg", "price": "$28.900", "stock":3, "category": "sincapucha"}
+
+]
